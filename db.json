@@ -21,6 +21,48 @@
       "name": "Deborah Grimes"
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "id": "597e",
+      "userId": "1",
+      "title": "Generic Frozen Hat"
+    },
+    {
+      "id": "2a34",
+      "userId": "6636",
+      "title": "Handcrafted Plastic Fish"
+    },
+    {
+      "id": "4321",
+      "userId": "1",
+      "title": "Generic Concrete Pants"
+    },
+    {
+      "id": "22f8",
+      "userId": "6636",
+      "title": "Small Concrete Keyboard"
+    },
+    {
+      "id": "3731",
+      "userId": "6636",
+      "title": "Fantastic Cotton Table"
+    },
+    {
+      "id": "e1fd",
+      "userId": "1",
+      "title": "Electronic Soft Sausages"
+    },
+    {
+      "id": "3f9b",
+      "userId": "1",
+      "title": "Tasty Frozen Hat"
+    }
+  ],
+  "photos": [
+    {
+      "id": "d73c",
+      "albumId": "597e",
+      "url": "https://loremflickr.com/150/150/abstract?lock=29160"
+    }
+  ]
 }
